@@ -2,7 +2,7 @@
 I have created classes which can be used to create a neural network architecture of your choice. You can use these classes to define your own layers and activation functions and use loss functions and optimizers of your own choice for different tasks.
 
 Implementations:
-1. Activation Functions: Sigmoid, TanH, ReLU, LeakyReLu
+1. Activation Functions: Sigmoid, TanH, ReLU, LeakyReLU
 2. Loss Functions: Mean-squared error, LogLoss
 3. Optimizers: Stochastic Gradient Descent, Monentum, Bengio Nesterov Momentum/NAG, RMSProp, Adam, NAdam
 4. Feedforward Layers
