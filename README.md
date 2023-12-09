@@ -1,4 +1,4 @@
-# Custom Classes to create a Neural Network using NumPy
+# Implement Backpropagation from scracth using NumPy
 I have created template classes which can be used to create a neural network architecture of your choice. You can use these classes to define your own layers and activation functions and use loss functions and optimizers of your own choice for different tasks.
 
 Implementations:
